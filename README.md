@@ -1,4 +1,4 @@
-# Insertion Sort Project
+# Insertion Merge Binary Serach Tree Sort Projects
 
 ## Soru 1.
 
